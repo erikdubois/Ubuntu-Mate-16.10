@@ -3,6 +3,7 @@
 We start our journey with a clean install. 
 
 Do all the updates the system already asks you to do.
+Kernel at 4.8.026.
 
 ![Screenshots](http://i.imgur.com/ZxDdJsF.png)
 
