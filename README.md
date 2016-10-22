@@ -17,16 +17,14 @@ Using Sardi icons from  http://sourceforge.net/projects/sardi/
 
 or 
 
-using Super Ultra Flat Numix Remix icons from https://github.com/erikdubois/Super-Ultra-Flat-Numix-Remix
-
+using Surfn icons from https://github.com/erikdubois/Surfn.
 
 Your result can be
 
-![Screenshots](http://i.imgur.com/aMrgOna.jpg)
+![Screenshots](http://i.imgur.com/2I6lU9w.png)
 
-![Screenshots](http://i.imgur.com/Pxao7Ir.jpg)
+![Screenshots](http://i.imgur.com/uy3OLY7.png)
 
-![Screenshots](http://i.imgur.com/OgzjAm4.jpg)
 
 You can change your mate settings best via appearance but there is also an interesting tool you should know.
 
@@ -44,7 +42,7 @@ Try compiz if your system can handle it. Wobbly windows, ...
 Getting these scripts on my just installed system.
 
 	sudo apt-get install git
-	git clone https://github.com/erikdubois/Ultimate-Ubuntu-Mate-16.04
+	git clone https://github.com/erikdubois/Ultimate-Ubuntu-Mate-16.10
 
 Go inside the folder and start to install all you need or want.
 
@@ -70,50 +68,12 @@ Go inside the folder and right-click <b>in a blank space</b> to go to the termin
 You have a choice. 
 
 	- kernel 3.x
-	- kernel 4.3.x
-	- kernel 4.4.x
-	- kernel 4.5.x
-	- kernel 4.6.x
-	- kernel 4.7.x
-
-If you want to install a kernel 3.x or a kernel 4.x, I have to take a different approach for my hardware. Therefor I have split it up in two files.
-
-	- ./update-to-the-last-stable-3.19.8-kernel-vx.sh 
-	- ./update-to-the-last-stable-4.6-kernel-vx.sh
- 
-
-Do not forget to type "./" in front of the name.
-
+	- kernel 4.8.x
 
 Type in the terminal
 
-	- ./update-to-the-last-stable-3.19.8-kernel-vx.sh 
-	
-	or 
-	
-	- ./update-to-the-last-stable-4.6-kernel-vx.sh 
 
-
-The drivers for your graphic card might well be supported already. So no need to install third party drivers.
-Nvidia drivers will <b>NOT</b> be installed as they are very specific to your hardware. But checkout the code.
-
-
-	# sudo add-apt-repository -y ppa:graphics-drivers/ppa
-	# sudo apt-get update
-	# sudo apt install nvidia-340 -y (for example)
-
-Check on Nvidia.com which driver you should use.
-
-An example of the kernel with screenfetch. You can use neofetch as well.
-	
-	# sudo apt install screenfetch neofetch
-
-
-
-<b>Kernel 4.7 installation</b>
-
-
-![Screenshots](http://i.imgur.com/JoQNN0m.png)
+	- ./update-to-the-last-stable-4.x-kernel-vx.sh 
 
 
 
