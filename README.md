@@ -65,6 +65,7 @@ Type in the terminal
 	./update-to-the-last-stable-4.x-kernel-vx.sh 
 
 
+http://erikdubois.be/change-kernel-easy-way-script/
 
 
 # Software installation
@@ -95,8 +96,14 @@ Or you choose to install the ones you want one by one.
 Conky has changed its configuration to lua syntax.
 This will my place to collect them all.
 
-https://github.com/erikdubois/Aureola
+http://erikdubois.be/category/linux/plank/
 
+
+# Plank
+
+I tend to use Plank in all my distro's.
+
+http://erikdubois.be/category/linux/plank/
 
 
 
