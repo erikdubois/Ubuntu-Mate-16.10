@@ -9,6 +9,7 @@ Kernel at 4.8.026.
 
 Take a look at the various scripts and run the ones you like. Change content if need be.
 
+![Screenshots](http://i.imgur.com/OCqLkd4.png)
 
 Some icons I use in the screenshots.
 
