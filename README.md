@@ -30,7 +30,7 @@ You can change your mate settings best via appearance but there is also an inter
 
 	# sudo apt install mate-tweak
 
-![Screenshots](http://i.imgur.com/O5kG3J7.png)
+![Screenshots](http://i.imgur.com/2OHWRwB.png)
 
 The configuration of your window manager is one of the very interesting options mate offers the user.
 
