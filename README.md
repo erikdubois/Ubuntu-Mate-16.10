@@ -100,7 +100,7 @@ http://erikdubois.be/category/linux/aureola/
 
 # Plank
 
-I tend to use Plank in all my distro's.
+I tend to use Plank in all my distro's. A nice dock you can theme to pin your most important applications to.
 
 http://erikdubois.be/category/linux/plank/
 
