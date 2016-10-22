@@ -106,6 +106,21 @@ I tend to use Plank in all my distro's.
 http://erikdubois.be/category/linux/plank/
 
 
+# Variety 
+
+Variety spices things up. Every minute a new wallpaper. Each time a surprise.
+
+http://erikdubois.be/category/linux/variety/
+
+
+# Themes from ARC
+
+You can make your own personal arc theme with the colour you like.
+
+http://erikdubois.be/category/themes/arc-based-themes/
+
+
+
 
 #What can you do if the script does not execute?
 
