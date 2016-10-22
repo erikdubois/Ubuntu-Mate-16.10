@@ -95,7 +95,7 @@ Or you choose to install the ones you want one by one.
 
 Great way to combine beauty and technical information together.
 
-http://erikdubois.be/category/linux/plank/
+http://erikdubois.be/category/linux/aureola/
 
 
 # Plank
