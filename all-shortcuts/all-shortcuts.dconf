@@ -1,0 +1,44 @@
+[custom0]
+action='variety -t'
+binding='<Alt>t'
+name='variety -t'
+
+[custom1]
+action='variety -n'
+binding='<Alt>n'
+name='variety -n'
+
+[custom2]
+action='variety -f'
+binding='<Alt>f'
+name='variety -f'
+
+[custom3]
+action='variety -p'
+binding='<Alt>p'
+name='variety -p'
+
+[custom4]
+action='variety -n'
+binding='<Alt>Right'
+name='variety -n'
+
+[custom5]
+action='variety -p'
+binding='<Alt>Left'
+name='variety -p'
+
+[custom6]
+action='gnome-system-monitor'
+binding='<Primary><Shift>Escape'
+name='gnome system monitor'
+
+[custom7]
+action='mate-screenshot -i'
+binding='<Primary>Print'
+name='mate screenshot'
+
+[custom8]
+action='synapse'
+binding='<Mod4>space'
+name='synapse'
