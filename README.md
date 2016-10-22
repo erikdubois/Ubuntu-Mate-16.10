@@ -93,8 +93,7 @@ Or you choose to install the ones you want one by one.
 
 # Aureola conky
 
-Conky has changed its configuration to lua syntax.
-This will my place to collect them all.
+Great way to combine beauty and technical information together.
 
 http://erikdubois.be/category/linux/plank/
 
