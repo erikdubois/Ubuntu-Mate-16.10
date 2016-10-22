@@ -24,8 +24,8 @@ sh install-variety-v1.sh
 ###############################################################################################
 
 #software from 'normal' repositories
-sudo apt-get install -y adobe-flashplugin catfish clementine curl dconf-cli dropbox evolution focuswriter frei0r-plugins geary gpick
-sudo apt-get install -y glances gparted grsync hardinfo inkscape kazam 
+sudo apt-get install -y catfish clementine curl dconf-cli evolution focuswriter frei0r-plugins geary gimp 
+sudo apt-get install -y glances gparted gpick grsync hardinfo inkscape kazam 
 sudo apt-get install -y openshot ppa-purge radiotray screenruler screenfetch scrot shutter slurm 
 sudo apt-get install -y terminator thunar vlc vnstat winbind  
 sudo apt-get install -y plank 

@@ -11,21 +11,16 @@
 #
 ##################################################################################################################
 
-# Software that is distro specific
 
-sudo apt install -y gnome-tweak-tool compizconfig-settings-manager  
+# Latest builds of cinnamon and nemo
 
-
-#ending
-#mkdir $HOME/Upload
-#sudo apt-get -y update
-#sudo apt-get -f -y install
-#sudo apt-get -y upgrade
-#sudo apt-get -y autoremove
-#sudo apt-get -y autoclean
+wget https://github.com/phw/peek/releases/download/v0.7.2/peek-0.7.2-Linux.deb
+sudo apt install libsdl1.2debian ffmpeg libavdevice-ffmpeg56 -y
+sudo apt-get -f install -y
+sudo dpkg -i peek-0.7.2-Linux.deb
+rm peek-0.7.2-Linux.deb
 
 
 echo "################################################################"
 echo "###################    T H E   E N D      ######################"
 echo "################################################################"
-
